@@ -1,0 +1,2 @@
+insert into products (ProductID, ProductName, SupplierID, CategoryID, QuantityPerUnit, UnitPrice, UnitsInStock, UnitsOnOrder, ReorderLevel, Discontinued)
+values(78, 'Biryani', 30, 5, '12 pkgs', 18.0000, 39, 0, 0, 0)
